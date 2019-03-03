@@ -4,6 +4,6 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase != phrase.upcase
   return "HUH?! SPEAK UP, SONNY!"
 elsif phrase == phrase.upcase
-  return"NO, NOT SINCE 1938."  
+  return"NO, NOT SINCE 1938."
 end
 end
