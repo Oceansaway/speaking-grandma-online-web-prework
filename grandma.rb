@@ -5,7 +5,7 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase == phrase.downcase()
   return "HUH?! SPEAK UP SONNY!"
 
-else phrase == phrase.downcase()
+elsif phrase == phrase.downcase()
   return "HUH?! SPEAK UP SONNY!"
 
 elsif phrase == phrase.upcase()
